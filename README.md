@@ -1,8 +1,8 @@
 # tiny_cv2.docker
 Small size docker image that include opencv + python3 + ubuntu. It contains:
+- opencv==4.6.0
 - Python3.8 @ ubuntu 20.04
 - pip installed opencv-python opencv-contrib-python
-- opencv==4.6.0
 - Only 185MB in compressed size, 500MB in docker size
 
 ## Usage
